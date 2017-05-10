@@ -1,8 +1,9 @@
 # Summary
 
+* [README](README.md)
 * [Biography of T.K. Cheng](biography-of-tk-cheng.md)
-* [Introduction](README.md)
-* [Chapter 1](chapter1.md)
+* [Introduction](introduction.md)
+* [Chapter 1](chapter-1.md)
 * [Chapter 2](chapter-2.md)
 * [Chapter 3](chapter-3.md)
 * [Chapter 4](chapter-4.md)
