@@ -25,4 +25,5 @@
 * [第二十章 歐洲視察](di-er-shi-zhang-ou-zhou-shi-cha.md)
 * [第廿一章 南中美視察](di-nian-yi-zhang-nan-zhong-mei-shi-cha.md)
 * [第廿二章 抗戰中的外交生活](di-nian-er-zhang-kang-zhan-zhong-de-wai-jiao-sheng-huo.md)
+* [第廿三章 中華民國革命的檢討與展望](di-nian-san-zhang-zhong-hua-min-guo-ge-ming-de-jian-tao-yu-zhan-wang.md)
 
