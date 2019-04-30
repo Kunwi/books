@@ -20,4 +20,5 @@
 * [第十五章 廣州市政的嚴重考驗](chapter-15.md)
 * [第十六章 勸胡漢民出國幷一起放洋](di-shi-liu-zhang-quan-hu-han-min-chu-guo-bing-yi-qi-fang-yang.md)
 * [第十七章 遊俄觀感](di-shi-qi-zhang-you-e-guan-gan.md)
+* [第十八章 主持實業部時期](di-shi-ba-zhang-zhu-chi-shi-ye-bu-shi-qi.md)
 
