@@ -23,4 +23,5 @@
 * [第十八章 主持實業部時期](di-shi-ba-zhang-zhu-chi-shi-ye-bu-shi-qi.md)
 * [第十九章 南洋視察](di-shi-jiu-zhang-nan-yang-shi-cha.md)
 * [第二十章 歐洲視察](di-er-shi-zhang-ou-zhou-shi-cha.md)
+* [第廿一章 南中美視察](di-nian-yi-zhang-nan-zhong-mei-shi-cha.md)
 
