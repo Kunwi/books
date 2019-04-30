@@ -18,4 +18,5 @@
 * [第十三章 寧漢分裂後之國民黨](chapter-13.md)
 * [第十四章 西南政府的剖視](chapter-14.md)
 * [第十五章 廣州市政的嚴重考驗](chapter-15.md)
+* [第十六章 勸胡漢民出國幷一起放洋](di-shi-liu-zhang-quan-hu-han-min-chu-guo-bing-yi-qi-fang-yang.md)
 
