@@ -22,4 +22,5 @@
 * [第十七章 遊俄觀感](di-shi-qi-zhang-you-e-guan-gan.md)
 * [第十八章 主持實業部時期](di-shi-ba-zhang-zhu-chi-shi-ye-bu-shi-qi.md)
 * [第十九章 南洋視察](di-shi-jiu-zhang-nan-yang-shi-cha.md)
+* [第二十章 歐洲視察](di-er-shi-zhang-ou-zhou-shi-cha.md)
 
